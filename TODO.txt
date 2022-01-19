@@ -1,0 +1,7 @@
+Add Maximize Minimize btn
+Volume Slider and Mute btn
+Youtube Downloader and convert to mp3
+mute pause 
+
+IMP LINKS:
+https://github.com/Terranova-Python/Tkinter-Menu-Bar

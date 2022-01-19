@@ -1,0 +1,6 @@
+future~=0.18.2
+ttkthemes~=3.2.2
+mutagen~=1.45.1
+pygame~=2.1.2
+pyglet~=1.5.21
+pyinstaller
